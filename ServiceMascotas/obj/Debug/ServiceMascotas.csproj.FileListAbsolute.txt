@@ -1,0 +1,2 @@
+C:\Users\696\source\repos\Solucion Pet_Funny\ServiceMascotas\obj\Debug\ServiceMascotas.csprojAssemblyReference.cache
+C:\Users\696\source\repos\Solucion Pet_Funny\ServiceMascotas\obj\Debug\ServiceMascotas.csproj.CoreCompileInputs.cache

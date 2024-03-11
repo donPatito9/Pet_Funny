@@ -1,0 +1,2 @@
+C:\Users\696\source\repos\Solucion Pet_Funny\Mascota.Negocio\obj\Debug\Mascota.Negocio.csprojAssemblyReference.cache
+C:\Users\696\source\repos\Solucion Pet_Funny\Mascota.Negocio\obj\Debug\Mascota.Negocio.csproj.CoreCompileInputs.cache
